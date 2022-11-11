@@ -141,7 +141,7 @@
     "jsonlines": "0.1.1",
     "load-json-file": "3.0.0",
     "mime-types": "2.1.24",
-    "minimatch": "3.0.4",
+    "minimatch": "3.0.5",
     "mri": "1.1.5",
     "ms": "2.1.2",
     "node-fetch": "2.6.1",
